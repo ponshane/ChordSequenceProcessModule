@@ -1,0 +1,6 @@
+
+*.pyc
+config.ini
+evaluatefunction.py
+reallocatefunction.py
+repeatCycleDetection.py
